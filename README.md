@@ -3,7 +3,12 @@
 
 
 # 🌀 Tweet Classification for Disaster Information  
-_Machine Learning Project – Naive Bayes & Logistic Regression_  
+_Deep Learning Project – Naive Bayes & Logistic Regression_ 
+
+Proyek ini dibuat untuk tujuan akademik (UTS NLP) dan dapat digunakan untuk pembelajaran.
+Disaster Detection Squad – Kelompok 5
+- Ahmad Izza (11220940000006)
+- Dani Hidayat (11220940000014)
 
 ## 📌 Deskripsi Proyek  
 Twitter sering menjadi sumber utama informasi saat bencana terjadi. Namun, tidak semua tweet yang mengandung kata seperti *"ablaze"* atau *"fire"* benar-benar menggambarkan bencana.  
